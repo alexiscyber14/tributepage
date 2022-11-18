@@ -1,0 +1,40 @@
+*{
+    background-color:ghostwhite;
+}
+main header{
+    background-color:darkslategrey;
+}
+header h1{
+    background-color: transparent;
+    text-align: center;
+    margin: 0;
+    color: white;
+    font-weight: bold;
+    font-size: 50px;;
+    font-family: sans-serif;
+    text-transform: capitalize;
+}
+header p{
+    text-align: center;
+    margin: 0;
+    color: white;
+    font-size: 17px;
+    letter-spacing: 2px;;
+    font-family: sans-serif;
+    text-transform: capitalize;
+    background-color: transparent;
+}#img-div{
+    text-align: center;
+}#img-caption{
+text-transform: capitalize;
+font-family: sans-serif;
+font-size: 20px;
+}
+#tribute-info{
+    text-align: center;
+    font-family: sans-serif;
+}#tribute-info h1{
+
+}#tribute-info p{
+    
+}
